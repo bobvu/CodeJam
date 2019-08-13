@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b547d99-ab16-4219-91bd-3b76bdc93dc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-Test.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-Test.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-large-practice.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-large-practice.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-small-practice.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/B-small-practice.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/out/production/Magicka/itmb/qr2011/Magicka/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Magicka/src/itmb/qr2011/Magicka/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e93558ba-d7f3-4bc1-8551-a8492fb22aa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-Test.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-Test.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-large-practice.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-large-practice.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-small-practice.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B-small-practice.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Magicka/itmb/qr2011/Magicka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itmb/qr2011/Magicka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BotTrust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BotTrust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1PAfvXT2MD4DXD4RhRwN0ho8d8h" />
+  <component name="ProjectId" id="1PB5BXfvEXEqJy9mut6kwJF7UwW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -57,8 +57,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="itmb.qr2011.BotTrust.Main" />
-      <module name="BotTrust" />
+      <option name="MAIN_CLASS_NAME" value="itmb.qr2011.Magicka.Main" />
+      <module name="Magicka" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -77,11 +77,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b547d99-ab16-4219-91bd-3b76bdc93dc9" name="Default Changelist" comment="" />
-      <created>1565322052766</created>
+      <changelist id="e93558ba-d7f3-4bc1-8551-a8492fb22aa7" name="Default Changelist" comment="" />
+      <created>1565334514046</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565322052766</updated>
+      <updated>1565334514046</updated>
     </task>
     <servers />
   </component>
@@ -98,5 +98,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/itmb/qr2011/Magicka/Main.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/itmb/qr2011/Magicka/Main.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
